@@ -1,6 +1,6 @@
-conda create -n langchain python=3.12.11
-conda activate langchain
-pip install -r requirements.txt
+- conda create -n langchain python=3.12.11
+- conda activate langchain
+- pip install -r requirements.txt
 
 -----------------------------------
 
